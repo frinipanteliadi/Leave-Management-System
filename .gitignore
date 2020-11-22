@@ -1,1 +1,7 @@
-./idea
+.idea/
+src/images/uploads/
+
+### Composer ###
+composer.phar
+*/vendor/
+
